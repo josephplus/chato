@@ -1,3 +1,5 @@
+![ChatO](https://chato.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ff1.e8d6058f.png&w=1080&q=75&dpl=dpl_61yjL2iMNsDdEPYTgovcQrAoRPP8)
+
 visit [chato.app](http://chato.app).
 
 # ChatO - Advanced AI Agents using ChatGPT4o (Free)
